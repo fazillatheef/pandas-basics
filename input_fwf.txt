@@ -1,0 +1,6 @@
+002alice.work@email.com
+003carol@mail.com
+002alice.home@email.com
+003carol.g@mail.com
+003carol.f@gmail.com
+004some.one@nowhere.com
